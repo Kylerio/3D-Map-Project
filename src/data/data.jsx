@@ -7,9 +7,9 @@ import BuildingLayer from '../assets/3dbuildinglayer.jpeg';
 import Population from '../assets/populationdensitylayer.jpeg';
 
 export const navItems = [
-  { label: "About", href: "#" },
-  { label: "Layer", href: "#" },
-  { label: "Result", href: "#" },
+  { label: "About", href: "#About" },
+  { label: "Layer", href: "#Layer" },
+  { label: "Result", href: "#Result" },
   
 ];
 
