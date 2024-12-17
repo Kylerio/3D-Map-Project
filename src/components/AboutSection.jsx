@@ -4,7 +4,7 @@ import { about } from '../data/data'
 
 const AboutSection = () => {
   return (
-    <section className="relative py-10 border-b border-neutral-700 min-h-[700px]">
+    <section id='About' className="relative py-10 border-b border-neutral-700 min-h-[700px]">
         <div className="container mx-auto text-center">
             <span className="text-md font-bold uppercase">About This 
                 <span className='bg-gradient-to-r from-blue-500 to-purple-400 text-transparent bg-clip-text'>

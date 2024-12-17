@@ -14,7 +14,7 @@ const LayerSection = () => {
   const [secondSwiper, setSecondSwiper] = useState(null);
 
   return (
-    <section className='relative py-10 border-b border-neutral-700 min-h-[900px] my-6'>
+    <section id='Layer' className='relative py-10 border-b border-neutral-700 min-h-[900px] my-6'>
         <div className="flex flex-col justify-center items-center">
         <span className='text-md font-bold uppercase'>Layer</span>
             <div className="items-center justify-center flex-col h-full w-full">
